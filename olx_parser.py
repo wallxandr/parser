@@ -46,7 +46,7 @@ def get_data(url):
 
 def main():
     get_data(
-        'https://www.olx.ua/d/nedvizhimost/kvartiry/prodazha-kvartir/kiev/?currency=UAH&page=')
+        'https://www.olx.ua/d/nedvizhimost/kvartiry/prodazha-kvartir/kiev/?page=')
 
 
 if __name__ == "__main__":
